@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "UrbanMobility_RawProducer": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7064",
+      "launchBrowser": false
+    }
+  }
+}
